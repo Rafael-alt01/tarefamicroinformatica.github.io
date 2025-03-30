@@ -1,0 +1,264 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif ;
+}
+
+.navbar{
+    background-color: rgb(253, 1, 140);
+    display: flex;
+    padding: 15px;
+}
+
+.list{
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+.list_item{
+    margin-left: 15px;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.link_list_item{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    transition: 0.5;
+}
+
+.link_list_item:hover{
+    color: rgb(255, 191, 16);
+    transition: 0.5s;
+}
+
+.logo{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+/*--------------------------------------*/
+
+.header{
+    height: 80vh;
+    background-image: url('../img/Header_image.jpg');
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-position: center;
+}
+
+.gradiente_header{
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gradiente_header_texto{
+    width: 80%;
+    margin: 0 auto;
+    color: white;
+    text-align: center;
+}
+
+.gradiente_header_texto h1{
+    font-size: 76px;
+    font-weight: 300;
+    line-height: 1.5;
+}
+
+/*------------------------------------------*/
+
+.wedding_01{
+    background-color: white;
+}
+
+.container_wedding_01{
+    width: 80%;
+    margin: 0 auto;
+    border: 1px solid white;;
+}
+
+.container_wedding_01 h2{
+    color: rgb(252, 93, 199);
+    margin-top: 15px;
+    font-size: 25px ;
+    font-weight: 100;
+    text-align: center;
+}
+
+.container_wedding_01 p{
+    color: black;
+    line-height: 25px;
+    margin-top: 10px;
+    align-items: left center;
+}
+
+/*------------------------------------*/
+
+.wedding_02{
+    background-color: white;
+}
+
+.container_wedding_02{
+    width:80%;
+    margin: 0 auto;
+    /*border: 1px solid plum*/
+}
+
+.container_wedding_02 h3{
+    color:  rgb(252, 93, 199); 
+    margin-top: 12px;
+    font-size: 23px;
+    font-weight: 100;
+    text-align: center;
+}
+
+.container_wedding_02 p{
+    color: black;
+    line-height: 25px;
+    margin-top: 10px;
+}
+
+/*--------------------------------*/
+
+.wedding_03{
+    background-color: white;
+}
+
+.container_wedding_03{
+    width: 100%;
+    margin: 0 auto;
+    border: 1px solid white;
+}
+
+.container_wedding_03 h4{
+    color:  rgb(252, 93, 199); 
+    margin-top: 12px;
+    font-size: 23px;
+    font-weight: 100;
+    text-align: center;
+}
+
+.container_wedding_06_photos{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px
+}
+
+.wedding{
+    height: 300px;
+    width: 50%;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#wedding_01{
+    background-image:url('../img/Image_01.webp');
+}
+
+#wedding_01{
+    background-image:url('../img/Image_01.webp');
+}
+
+
+/*----------------------------------------------------*/
+
+.wedding_04{
+    background-color:white;
+}
+
+.container_wedding_04{
+    width: 80%;
+    margin: 0 auto;
+    border: 1px solid white;
+}
+
+.container_wedding_04 h5{
+    color: rgb(252, 93, 199); 
+    margin-top: 12px;
+    font-size: 23px;
+    font-weight: 100;
+    text-align: center;
+}
+
+.container_wedding_04 p{
+    color: black;
+    line-height: 25px;
+    margin-top: 10px;
+}
+
+/*----------------------------------------------------*/
+
+.wedding_05{
+    background-color:white;
+}
+
+.container_wedding_05{
+    width: 80%;
+    margin: 0 auto;
+    border: 1px solid white;
+}
+
+.container_wedding_05 h6{
+    color: rgb(252, 93, 199); 
+    margin-top: 12px;
+    font-size: 23px;
+    font-weight: 100;
+    text-align: center;
+}
+
+.container_wedding_05 p{
+    color: black;
+    line-height: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/*----------------------------------------------------*/
+
+.container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    border: 20px solid #e9e4e7;
+    background-color: #e9e4e7;
+}
+
+.columns_menu{
+    margin-left: 3%;
+    background-color: #e9e4e7; 
+    font-size: 28px;
+}
+
+.titulo01{
+    background-color: #e9e4e7;
+}
+
+.container01{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
