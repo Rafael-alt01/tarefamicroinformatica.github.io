@@ -92,7 +92,7 @@
 .container_wedding_01 p{
     color: black;
     line-height: 25px;
-    margin-top: 10px;
+    margin-top: 8px;
     align-items: left center;
 }
 
@@ -164,10 +164,25 @@
     background-image:url('../img/Image_01.webp');
 }
 
-#wedding_01{
-    background-image:url('../img/Image_01.webp');
+#wedding_02{
+    background-image:url('../img/Image_02.png');
 }
 
+#wedding_03{
+    background-image:url('../img/image_03.jpeg');
+}
+
+#wedding_04{
+    background-image:url('../img/image_04.jpeg');
+}
+
+#wedding_05{
+    background-image:url('../img/Image_05.jpeg');
+}
+
+#wedding_06{
+    background-image:url('../img/image_06.jpeg');
+}
 
 /*----------------------------------------------------*/
 
@@ -241,11 +256,12 @@
 
 .titulo01{
     background-color: #e9e4e7;
+    color: rgb(252, 93, 199);
 }
 
 .container01{
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin-top: 20px;
+    margin-bottom: 35px;
 }
 
 
